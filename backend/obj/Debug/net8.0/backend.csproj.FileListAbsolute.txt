@@ -23,3 +23,4 @@ C:\Users\felix\Documents\Projects\Web\game-store-inventory\backend\obj\Debug\net
 C:\Users\felix\Documents\Projects\Web\game-store-inventory\backend\obj\Debug\net8.0\backend.pdb
 C:\Users\felix\Documents\Projects\Web\game-store-inventory\backend\obj\Debug\net8.0\backend.genruntimeconfig.cache
 C:\Users\felix\Documents\Projects\Web\game-store-inventory\backend\obj\Debug\net8.0\ref\backend.dll
+C:\Users\felix\Documents\Projects\Web\game-store-inventory\backend\obj\Debug\net8.0\backend.sourcelink.json
