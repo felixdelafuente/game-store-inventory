@@ -24,3 +24,9 @@ C:\Users\felix\Documents\Projects\Web\game-store-inventory\backend\obj\Debug\net
 C:\Users\felix\Documents\Projects\Web\game-store-inventory\backend\obj\Debug\net8.0\backend.genruntimeconfig.cache
 C:\Users\felix\Documents\Projects\Web\game-store-inventory\backend\obj\Debug\net8.0\ref\backend.dll
 C:\Users\felix\Documents\Projects\Web\game-store-inventory\backend\obj\Debug\net8.0\backend.sourcelink.json
+C:\Users\felix\Documents\Projects\Web\game-store-inventory\backend\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\felix\Documents\Projects\Web\game-store-inventory\backend\bin\Debug\net8.0\MinimalApis.Extensions.dll
+C:\Users\felix\Documents\Projects\Web\game-store-inventory\backend\bin\Debug\net8.0\MiniValidation.dll
+C:\Users\felix\Documents\Projects\Web\game-store-inventory\backend\obj\Debug\net8.0\backend.csproj.AssemblyReference.cache
+C:\Users\felix\Documents\Projects\Web\game-store-inventory\backend\obj\Debug\net8.0\backend.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\felix\Documents\Projects\Web\game-store-inventory\backend\obj\Debug\net8.0\backend.csproj.Up2Date
